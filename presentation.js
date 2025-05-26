@@ -3,12 +3,12 @@ document.addEventListener('DOMContentLoaded', function() {
     let backButton = document.getElementById('backButton');
     let nextButton = document.getElementById('nextButton');
     let imageUrls = [
-        'images/slide1.jpg',
-        'images/slide2.jpg',
-        'images/slide3.jpg',
-        'images/slide4.jpg',     
-        'images/slide5.jpg',      
-        'images/slide6.jpg',
+        'slide1.jpg',
+        'slide2.jpg',
+        'slide3.jpg',
+        'slide4.jpg',     
+        'slide5.jpg',      
+        'slide6.jpg',
     ];
     let currentIndex = 0;
   
