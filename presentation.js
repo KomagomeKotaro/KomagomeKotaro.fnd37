@@ -31,6 +31,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
 
     document.addEventListener("keydown", function(keyEvent) {
+        console.log(keyEvent);
       if (keyEvent.key === "ArrowLeft") {
         backButton.click();
       } else if (keyEvent.key === "ArrowRight") {
