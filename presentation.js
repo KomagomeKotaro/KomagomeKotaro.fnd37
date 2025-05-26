@@ -9,6 +9,7 @@ document.addEventListener("DOMContentLoaded", function() {
         "slide4.jpg",     
         "slide5.jpg",      
         "slide6.jpg",
+        "slide7.jpg",
     ];
     let currentIndex = 0;
   
